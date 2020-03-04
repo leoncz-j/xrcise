@@ -1,0 +1,20 @@
+{
+    id:1;
+    title:Bizepssehne;
+    lengths:30;
+},
+{
+    id:2;
+    title:Trizeps;
+    lengths:30;
+},
+{
+    id:3;
+    title:Sehne;
+    lengths:60;
+},
+{
+    id:4;
+    title:Sehne;
+    lengths:120;
+}
