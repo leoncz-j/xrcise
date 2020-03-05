@@ -3,26 +3,26 @@
     "id":1,
     "title":"Bizepssehne",
     "lengths":30,
-    "not-in-use":true
+    "inUse":true
 },
 {
     "id":2,
     "title":"Trizeps",
     "lengths":30,
-    "not-in-use":true
+    "inUse":true
 }
     ,
 {
     "id":3,
     "title":"Sehne",
     "lengths":60,
-    "not-in-use":true
+    "inUse":true
 },
 {
     "id":4,
     "title":"Sehne",
     "lengths":120,
-    "not-in-use":true
+    "inUse":true
 }
 ]
 }
